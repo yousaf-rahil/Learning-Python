@@ -7,7 +7,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Progress](https://img.shields.io/badge/Progress-100%25-brightgreen?style=for-the-badge)
-![Exercises](https://img.shields.io/badge/Exercises-11+-orange?style=for-the-badge)
+![Exercises](https://img.shields.io/badge/Exercises-5+-orange?style=for-the-badge)
 
 ---
 
